@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
   -->
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brainy824)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainy824&layout=donut)](https://github.com/Brainy824/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brainy824&count_private=true&card_width=400px&line_height=28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainy824&hide=qml,javascript,html,css,qmake,assembly,cmake&layout=compact&langs_count=10)
 
 
 <picture>
